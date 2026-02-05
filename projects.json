@@ -1,0 +1,14 @@
+[
+  {
+    "repo": "Wanderlust-Mega-Project",
+    "featured": true,
+    "category": "Mega Fullstack",
+    "customImage": "/images/wanderlust-mega.png"
+  },
+  {
+    "repo": "Testing",
+    "featured": false,
+    "category": "DevOps Challenge",
+    "customImage": "/images/testing-challenge.png"
+  }
+]
