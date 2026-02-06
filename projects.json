@@ -1,14 +1,26 @@
 [
   {
-    "repo": "Wanderlust-Mega-Project",
+    "repo": "Wimse Educational Consultancy",
     "featured": true,
-    "category": "Mega Fullstack",
-    "customImage": "/images/wanderlust-mega.png"
+    "category": "Frontend",
+    "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/Wimse_pjtvgk.png"
   },
   {
-    "repo": "Testing",
-    "featured": false,
-    "category": "DevOps Challenge",
-    "customImage": "/images/testing-challenge.png"
+    "repo": "Ayushaya Naturals",
+    "featured": true,
+    "category": "Frontend",
+    "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/AyushyaNaturals_jaymgy.png"
+  },
+  {
+    "repo": "Ps Properties",
+    "featured": true,
+    "category": "Frontend",
+    "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/Psproperties_a3nrlq.png"
+  },
+  {
+    "repo": "Beaamingh Organics",
+    "featured": true,
+    "category": "Frontend",
+    "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/Beaamingh_ktvxni.png"
   }
 ]
