@@ -1,24 +1,28 @@
 [
   {
-    "repo": "Wimse Educational Consultancy",
+    "repo": "WIMSE",
+    "title": "Wimse Educational Consultancy",
     "featured": true,
     "category": "Frontend",
     "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/Wimse_pjtvgk.png"
   },
   {
-    "repo": "Ayushaya Naturals",
+    "repo": "Ayushyaa-Naturals",
+    "title": "Ayushaya Naturals",
     "featured": true,
     "category": "Frontend",
     "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/AyushyaNaturals_jaymgy.png"
   },
   {
-    "repo": "Ps Properties",
+    "repo": "PS-Properties",
+    "title": "Ps Properties",
     "featured": true,
     "category": "Frontend",
     "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/Psproperties_a3nrlq.png"
   },
   {
-    "repo": "Beaamingh Organics",
+    "repo": "Beaamingh-Organics",
+    "title": "Beaamingh Organics",
     "featured": true,
     "category": "Frontend",
     "customImage": "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1770301644/Beaamingh_ktvxni.png"
